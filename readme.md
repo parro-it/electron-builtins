@@ -30,4 +30,4 @@ console.log(builtinModules);
 
 # License
 
-MIT © [Andrea Parodi](license.md)
+[MIT](license) © [Andrea Parodi](andrea@parro.it)
