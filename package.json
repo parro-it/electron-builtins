@@ -1,7 +1,7 @@
 {
   "name": "electron-builtins",
   "version": "1.0.0",
-  "description": "",
+  "description": "List of the Electron builtin modules.",
   "repository": "parro-it/electron-builtins",
   "license": "MIT",
   "author": "parro-it",
